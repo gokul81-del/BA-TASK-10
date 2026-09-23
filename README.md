@@ -8,23 +8,23 @@ Dataset
 
 File: business_performance_heatmap.csv
 
-Main Fields
+- Main Fields
 
-Category
+- Category
 
-Region
+- Region
 
-Customer Segment
+- Customer Segment
 
-Sub-Category
+- Sub-Category
 
-Sales
+- Sales
 
-Profit
+- Profit
 
-Quantity
+- Quantity
 
-Orders
+- Orders
 
 Tableau Sheets
 
